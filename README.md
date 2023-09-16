@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Businge Joshua</h1>
-<h3 align="center">A passionate computer scientist, currently pursuing a masters in computer science majoring in artificial intelligence and data science. Passionate about machine learning, data analysis and data visualization with experience in using python and d3js. Currently doing DevOPs, learning Golang and Vuejs.</h3>
+<h3 align="center">A passionate computer scientist, with a masters in computer science majoring in artificial intelligence and data science. Passionate about machine learning, data analysis and data visualization with experience in using python and d3js. Currently doing DevOPs, learning Golang and Vuejs.</h3>
 
 - 👀 I’m interested in **AI, Machine Learning and DevOPs.**
 
